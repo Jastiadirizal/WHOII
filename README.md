@@ -65,12 +65,13 @@ Tujuan akhir dari proyek adalah untuk memberikan solusi bagi masyarakat dalam me
 2. Fitur pelaporan barang hilang atau ditemukan yang dapat diakses oleh pengguna.
 3. Kelengkapan informasi terkait urban farming atau planting yang sangat membantu menambah wawasan terkait pelestarian lahan hijau
 
-<div align="center">
-  
+
 Ada 6 tahapan kegitan yang harus dilakukan selama 5 minggu yang dibagia menjadi dua baigan yaitu :
  
 - Project Awal (week 1 - week 3), terdapat tahapan planning project dan pengelolaan tugas, desain dan pembuatan mockup, slicing beberapa page
 - Project Akhir(week 3 -week 5), terdapat tahapan menyempurnakan slicing, pembuatan article dan plant api, mengintegrasikan FE dengan BE, Mengimplementasikan CICD Devops
+
+<div align="center">
 
 
 | Minggu | Scope        | Kegiatan                                                                |
