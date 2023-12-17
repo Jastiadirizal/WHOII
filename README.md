@@ -80,7 +80,7 @@ Ada 6 tahapan kegitan yang harus dilakukan selama 5 minggu yang dibagia menjadi 
 | 2      | Design            | Inisialisasi, mockup, dan evaluasi                                      |
 | 3      | Development (FE)  | Implementasi slicing dan juga pengaturan responsifitas                  |
 | 4      | Development (BE)  | Pembuatan API, definisi endpoint, dan mengintegrasikan dengan FE        |
-| 5      | Release           | Build, Testing, Deploy dan Evaluasi                                     |
+| 5      | Release (DevOps)  | Build, Testing, Deploy dan Evaluasi                                     |
 
 ## Risk and Issue Management Plan:
 
