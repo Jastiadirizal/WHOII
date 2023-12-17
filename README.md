@@ -1,14 +1,13 @@
 <div align="center">
   
-  <a href="#"><img src="./assets/image/Logo.svg" alt="icon" border="0"></a>
+  <a href="#"><img src="./Logo.svg" alt="icon" border="0"></a>
   
-# Lost & Found
-
+# GREEN HAVEN
 Capstone Project SIB Cycle 5 - Dicoding 2023
 
 ## Features
 
-Interactive | PWA | Multi Platform | Offline Access | Filtering & Searching | Submission Form
+Education on Urban Planting | Home Preference Survey | User-Friendly and Accessible Website
 
 ## Tech
 
@@ -23,58 +22,65 @@ Interactive | PWA | Multi Platform | Offline Access | Filtering & Searching | Su
 
 ## API
 
-![badge](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Postgre](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Hapi.js](https://img.shields.io/badge/Hapi.js-404D59?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-316192?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ###
 
-[`Lost-and-Found API`](https://github.com/OmMahen/lost-and-found-api) |
-[`Lost-and-Found Img API`](https://github.com/OmMahen/lost-and-found-image-api)
+[`Plants API`](https://github.com/0xfaqih/plants-api/blob/main/README.md) |
+[`Article API`](https://github.com/0xfaqih/plants-api/blob/article-api/README.md)
 
 | Presentasi                                         | Demo                                       |
 | -------------------------------------------------- | ------------------------------------------ |
-| [Presentation Video](https://youtu.be/SAoMJBDLYxs) | [Demo Video](https://youtu.be/QguTzavEbrw) |
+| [Presentation Video](https://www.youtube.com/watch?v=RG6gJSpuZ7k) | [Demo Video](https://youtu.be/QguTzavEbrw) |
 
-### Team ID : `C23-R4104`
+### Team ID : `C523-PS025`
 
 | Tema : `Solusi Utilitas` | Judul Project : `Green Haven` |
 | ------------------------ | --------------------------------------- |
 
 ### Capstone Team
 
-| ID        | NAMA                                                               |
-| --------- | ------------------------------------------------------------------ |
-| F047XB403 | [Barkah Herdyanto Sejati](https://github.com/Menrva-pixel)         |
-| F007XA007 | [Ibnu Hasyim Surianto](https://github.com/IbnuHs)                  |
-| F008XB035 | [Vicky Pratama Setya Mahardika](https://github.com/VickyPratama87) |
-| F009XA009 | [Mahendra Putra Raharja](https://github.com/OmMahen)               |
+| ID        | NAMA                                                                       |
+| --------- | ------------------------------------------------------------------         |
+| F120YB382 | [Andika purnama Putra](https://github.com/AndikaPurnamaPutra)              |
+| F006XB376 | [Afifa Nur Aini](https://github.com/Afifanra)                              |
+| F120XB389 | [Refi Junitasari](https://github.com/refiijs)                              |
+| F356YB379 | [Abdul Faqih](https://github.com/0xfaqih)                                  |
+| S006YB475 | [Muhammad Kafin Jastiadirizal Prasadana](https://github.com/Jastiadirizal) |
 
 ## Executive Summary
 
-Semua orang memiliki barang berharga seperti handphone, laptop, sepeda motor, dompet, dan lain-lain. Hal ini menimbulkan permasalahan yaitu tindak kejahatan pencurian yang mengakibatkan kehilangan barang. Oleh karena itu, kami selaku generasi muda khususnya mahasiswa yang bergerak dibidang teknologi menciptakan ide yaitu _“Lost and Found Finder”_.
+Berkurangnya lahan hijau karena tingginya peningkatan jumlah penduduk dan juga kebutuhan sumber daya alam yang sering digunakan namun tidak diiringi dengan peestarian lahan hijau. Oleh karena itu, diperlukannya upaya dalam meningkatkan pemahaman masyarakat terkait pelestarian hijau secara mandiri. Kami berkeinginan memberikan solusi alternatif dengan memulai dari lingkungan sekitar hunian. Untuk membuat solusi tersebut dapat diakses dengan mudah oleh publik, kami mengemas solusi tersebut dengan bantuan teknologi berupa website informatif yang bernama Green Haven dengan menargetkan masyarakat umum dalam mengelola lingkungan huniannya.
+
 
 ## Project Scope & Deliverables:
 
-Tujuan akhir dari proyek adalah untuk memberikan solusi bagi masyarakat dalam mengatasi masalah kehilangan atau penemuan barang dengan cara memberikan platform online berbasis website yang memungkinkan pengguna untuk melaporkan dan mencari informasi tentang barang yang hilang atau ditemukan secara efektif dan efisien, serta memudahkan proses penemuan barang yang hilang oleh pemiliknya.
+Tujuan akhir dari proyek adalah untuk memberikan solusi bagi masyarakat dalam meningkatkan kesadaran dan mampu melakukan aksi terhadap pelestarian lahan hijau secara mandiri. Dengan adanya green haven maka dapat menjadi sumber informasi lengkap terkait tanaman dan bagiamana cara melestarikan lahan hijau di sekitar hunian kita meskipun memiliki lahan yang terbatas
+
 
 </div>
 
-1. aplikasi online berbasis website yang menampilkan informasi detail seputar barang hilang atau ditemukan.
+1. Website user-friendly dan mudah digunakan dimanapun dan kapanpun menggunakan device apapun yang memuat website tentang pelestarian lahan hijau berdasarkan kondisi hunian pengguna
 2. Fitur pelaporan barang hilang atau ditemukan yang dapat diakses oleh pengguna.
-3. Fitur pencarian untuk memudahkan pengguna dalam mencari barang.
+3. Kelengkapan informasi terkait urban farming atau planting yang sangat membantu menambah wawasan terkait pelestarian lahan hijau
 
 <div align="center">
   
-Ada 6 tahapan kegiatan yang harus dilakukan dalam waktu tersebut, yaitu tahap perencanaan selama 7 hari, tahap desain selama 5 hari, tahap penulisan kode program selama 20 hari, tahap pengujian selama 4 hari, tahap peluncuran selama 4 hari, dan tahap hasil akhir selama 5 hari. Setiap tahap memiliki target tertentu yang harus dicapai.
+Ada 6 tahapan kegitan yang harus dilakukan selama 5 minggu yang dibagia menjadi dua baigan yaitu :
+ 
+- Project Awal (week 1 - week 3), terdapat tahapan planning project dan pengelolaan tugas, desain dan pembuatan mockup, slicing beberapa page
+- Project Akhir(week 3 -week 5), terdapat tahapan menyempurnakan slicing, pembuatan article dan plant api, mengintegrasikan FE dengan BE, Mengimplementasikan CICD Devops
 
-| Minggu | Scope        | Kegiatan                                                            |
-| ------ | ------------ | ------------------------------------------------------------------- |
-| 1      | Planning     | Pencarian ide dan pembuatan ide project                             |
-| 2      | Design       | Inisialisasi, mockup, dan evaluasi                                  |
-| 3      | Coding       | Setting GitHub Repository, HomePage, fitur utama dan fitur tambahan |
-| 4      | Testing      | Testing Fungsionalitas, dan Evaluasi                                |
-| 5      | Release      | Deploy dan Evaluasi                                                 |
-| 6      | Final Result | Dokumentasi, Project brieft, Slide presentasi, Video Presentasi     |
+
+| Minggu | Scope        | Kegiatan                                                                |
+| ------ | ------------ | -------------------------------------------------------------------     |
+| 1      | Planning     | Pencarian ide dalam pembuatan ide project &                             |
+| 2      | Design       | Inisialisasi, mockup, dan evaluasi                                      |
+| 3      | Frontend     | Implementasi slicing dan juga pengaturan responsifitas                  |
+| 4      | Backend      | Pembuatan API, definisi endpoint, dan mengintegrasikan dengan FE        |
+| 5      | Devops       | Build, Testing, Deploy dan Evaluasi                                     |
+| 6      | Final Result | Dokumentasi, Project brieft, Slide presentasi, Video Presentasi, & Demo |
 
 ## Risk and Issue Management Plan:
 
