@@ -43,10 +43,10 @@ Education on Urban Planting | Home Preference Survey | User-Friendly and Accessi
 
 | ID        | NAMA                                                                       |
 | --------- | ------------------------------------------------------------------         |
-| F120YB382 | [Andika purnama Putra](https://github.com/AndikaPurnamaPutra)              |
 | F006XB376 | [Afifa Nur Aini](https://github.com/Afifanra)                              |
 | F120XB389 | [Refi Junitasari](https://github.com/refiijs)                              |
 | F356YB379 | [Abdul Faqih](https://github.com/0xfaqih)                                  |
+| F120YB382 | [Andika purnama Putra](https://github.com/AndikaPurnamaPutra)              |
 | S006YB475 | [Muhammad Kafin Jastiadirizal Prasadana](https://github.com/Jastiadirizal) |
 
 ## Executive Summary
