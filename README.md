@@ -7,7 +7,7 @@ Capstone Project SIB Cycle 5 - Dicoding 2023
 
 ## Features
 
-Education on Urban Planting | Home Preference Survey | User-Friendly and Accessible Website
+Education on Urban Planting | Home Preference Survey | User-Friendly and Accessible Website | PWA Progessvie Web App
 
 ## Tech
 
