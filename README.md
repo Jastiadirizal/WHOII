@@ -36,7 +36,7 @@ Education on Urban Planting | Home Preference Survey | User-Friendly and Accessi
 
 ### Team ID : `C523-PS025`
 
-| Tema : `Solusi Utilitas` | Judul Project : `Green Haven` |
+| Tema : `Sumber Daya Alam, Ekosistem, dan Perubahan Iklim` | Judul Project : `Green Haven` |
 | ------------------------ | --------------------------------------- |
 
 ### Capstone Team
